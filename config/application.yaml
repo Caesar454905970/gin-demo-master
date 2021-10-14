@@ -1,0 +1,11 @@
+server:
+  port: 8081
+datasource:
+  driverName: mysql
+  host: 43.132.245.55
+  port: 3306
+  database: chengqiang
+  username: chengqiang
+  password: chengqiang
+  charset: utf8
+  loc: Asia/Shanghai
